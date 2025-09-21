@@ -1,4 +1,4 @@
-🌸 Saathi App: saathi-lyart.vercel.app
+🌸  [Saathi App:](<Your Download Link here>)
 
 An AI-powered companion for emotional well-being
 A safe, private, and culturally-aware space where youth can share their feelings, reflect, and find comfort — anytime, anywhere.
@@ -51,5 +51,6 @@ Backend: Node.js
 AI Models: Google Gemini
 
 Hosting: Vercel: saathi-lyart.vercel.app
+
 
 
