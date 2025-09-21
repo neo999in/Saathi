@@ -1,4 +1,4 @@
-🌸  [Saathi App:](saathi-lyart.vercel.app)
+🌸  [Saathi App:](<saathi-lyart.vercel.app>)
 
 An AI-powered companion for emotional well-being
 A safe, private, and culturally-aware space where youth can share their feelings, reflect, and find comfort — anytime, anywhere.
