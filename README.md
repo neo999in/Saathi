@@ -50,7 +50,8 @@ Backend: Node.js
 
 AI Models: Google Gemini
 
-Hosting: Vercel: saathi-lyart.vercel.app
+Hosting: Vercel: [saathi-lyart.vercel.app](https://saathi-lyart.vercel.app)
+
 
 
 
