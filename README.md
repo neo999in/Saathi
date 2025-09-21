@@ -26,15 +26,11 @@ What: A private space for users to log their feelings.
 
 Features:
 
-Text journaling.
-
-Voice journaling for accessibility.
+Text journaling and Voice journaling.
 
 3. 🎭 Generative Storytelling for Coping
 
-What: Creative coping through personalized narratives.
-
-How it helps:
+What: Creative coping through personalized narratives.
 
 AI generates short, calming stories or metaphors based on user emotions.
 
