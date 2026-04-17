@@ -8,13 +8,11 @@
   </a>
   <br />
   <br />
-  [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges)](./LICENSE)
 </div>
 
 ---
 
 ### 📖 Description
-<img src="assets/app_logo.png" alt="Saathi Cover" width="100%" />
 
 **Saathi** is an AI-powered companion designed for emotional well-being. It provides a safe, private, and culturally-aware space where youth can share their feelings, reflect, and find comfort—anytime, anywhere. Built with empathy at its core, Saathi helps users navigate their emotions through AI-driven conversations, journaling, and mindfulness exercises.
 
@@ -25,7 +23,7 @@
 
 ### 📸 Screenshots
 <div align="center">
-  <img src="assets/Screenshots.png" alt="App Screenshots" width="100%" />
+  <img src="assets/screenshots.png" alt="App Screenshots" width="100%" />
   <p><i>One-line features overview:</i></p>
   <ul>
     <li><b>Ask Saathi</b>: Your 24/7 AI companion for empathetic emotional support.</li>
