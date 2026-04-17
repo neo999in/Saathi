@@ -1,0 +1,86 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ-specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea/libraries/
+.idea/modules.xml
+.idea/runConfigurations.xml
+.idea/workspace.xml
+
+# VS Code-specific files
+.vscode/
+sftp.json
+project.config.json
+
+# Flutter/Dart-specific files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Android-specific files
+android/app/local.properties
+android/app/generated_signtool_code.gradle
+android/key.properties
+android/bundle/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+android/gradle/wrapper/gradle-wrapper.jar
+.gradle/
+captures/
+externalNativeBuild/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.p12
+*.keystore
+*.jks
+
+# iOS-specific files
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/DerivedData/
+ios/.generated/
+ios/.pub/
+ios/Pods/
+ios/.symlinks/
+ios/Config/
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+
+# Linux-specific files
+linux/flutter/ephemeral/
+
+# macOS-specific files
+macos/Flutter/ephemeral/
+
+# Windows-specific files
+windows/flutter/ephemeral/
+
+# Secret files (Custom)
+lib/secrets.dart
+lib/secrets.example.dart
+.env
