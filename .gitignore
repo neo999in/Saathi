@@ -32,8 +32,8 @@ project.config.json
 .packages
 .pub-cache/
 .pub/
-/build/
-!/build/web
+build/*
+!build/web/
 
 # Android-specific files
 android/app/local.properties
