@@ -3,7 +3,7 @@
   <img src="assets/app_logo.png" alt="Saathi Logo" width="120" height="120" />
   <br />
   <br />
-  <a href="https://github.com/neo999in/Saathi/releases/latest"><img src="https://img.shields.io/badge/Download-APK-2D80EC?logo=android" height="40" width="224"  align="center"></a><br>
+  <a href="https://github.com/neo999in/Saathi/releases/download/Android/app-release.apk"><img src="https://img.shields.io/badge/Download-APK-2D80EC?logo=android" height="40" width="224"  align="center"></a><br>
   <a href="./LICENSE"><img src="https://img.shields.io/github/license/neo999in/Saathi" height="20" align="center"></a>
   <br />
   <br />
