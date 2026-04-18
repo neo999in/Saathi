@@ -52,7 +52,7 @@ Before you begin, ensure you have met the following requirements:
 ### 🛠 Tech Stack
 <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-00CCFF?labelColor=333333&logo=Flutter&logoColor=00CCFF" height="40"  align="left"></a>
 <a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-40C4FF?labelColor=333333&logo=Dart&logoColor=40C4FF" height="40" align="left"></a>
-<a href="https://ai.google.dev/"><img src="https://img.shields.io/badge/Google_AI_Studio-8E75FF?labelColor=333333&logo=GoogleGemini&logoColor=8E75FF" height="40" w align="left"></a>
+<a href="https://ai.google.dev/"><img src="https://img.shields.io/badge/Google_AI_Studio-8E75FF?labelColor=333333&logo=GoogleGemini&logoColor=8E75FF" height="40" w align="left"></a><br>  
 <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?labelColor=333333&logo=nodedotjs&logoColor=339933" height="40" align="left"></a>
 <a href="https://render.com/"><img src="https://img.shields.io/badge/Render-7B2BF9?labelColor=333333&logo=render&logoColor=7B2BF9" height="40"  align="left"></a>
 <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?labelColor=333333&logo=vercel&logoColor=FFFFFF" height="40" align="left"></a>
