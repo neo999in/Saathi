@@ -73,5 +73,5 @@ lib/
 ---
 ### 📄 License
 
-This project is licensed under the **MIT License**. <a href="./LICENSE"><img src="https://img.shields.io/github/license/neo999in/Saathi" height="20" align="center"></a>
+Released under the <a href="./LICENSE"><img src="https://img.shields.io/github/license/neo999in/Saathi" height="20" align="center"></a>
 
