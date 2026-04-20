@@ -7,7 +7,6 @@
 </div>
 
 ---
-
 ### 📖 Description
 
 **Saathi** is an AI-powered companion designed for emotional well-being. It provides a safe, private, and culturally-aware space where youth can share their feelings, reflect, and find comfort—anytime, anywhere. Built with empathy at its core, Saathi helps users navigate their emotions through AI-driven conversations, journaling, and mindfulness exercises.
@@ -74,6 +73,5 @@ lib/
 ---
 ### 📄 License
 
-This project is licensed under the **MIT License**.
-  <a href="./LICENSE"><img src="https://img.shields.io/github/license/neo999in/Saathi" height="20" align="center"></a>
+This project is licensed under the **MIT License**. <a href="./LICENSE"><img src="https://img.shields.io/github/license/neo999in/Saathi" height="20" align="center"></a>
 
