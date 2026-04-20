@@ -75,4 +75,16 @@ lib/
 └── audio_note_player.dart # Custom playback for voice journal entries
 ```
 
+git push origin main---
+
+### 📄 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+<p align="center">
+  <a href="./LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
+  </a>
+</p>
+
 
