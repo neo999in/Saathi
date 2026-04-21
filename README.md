@@ -3,7 +3,8 @@
   <img src="assets/app_logo.png" alt="Saathi Logo" width="120" height="120" />
   <br />
   <br />
-  <a href="https://github.com/neo999in/Saathi/releases/download/Android/app-release.apk"><img src="https://img.shields.io/badge/Download-APK-2D80EC?logo=android" height="40" width="224"  align="center"></a><br>
+  <a href="https://github.com/neo999in/Saathi/releases/download/Android/app-release.apk"><img src="https://img.shields.io/badge/Download-APK-2D80EC?logo=android" width="226"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://saathi-lyart.vercel.app"><img src="https://img.shields.io/badge/Open_Web-APP-000000?logo=vercel" width="230"></a><br><br>
 <a href="https://github.com/neo999in/Saathi-backend"><img src="https://img.shields.io/badge/Backend-Repository-339933?logo=nodedotjs" width="180" ></a><br>
 </div>
 
